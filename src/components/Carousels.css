@@ -1,0 +1,22 @@
+.carousels > div{
+      
+     display: flex;
+     justify-content:center;
+     align-items:center;
+     overflow:hidden;
+     gap: 40px;
+     
+}
+.carousels {
+    margin: auto;
+    margin-top: 20%;
+    width: 80%;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.carousels > div{
+      background-color: rgb(24, 22, 22);
+      
+}
